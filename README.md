@@ -14,7 +14,7 @@ and install it
 sudo apt-get update
 sudo apt-get install tor deb.torproject.org-keyring
 ```
-then add you current user to the `debian-tor` group to be able to use cookie authentication.
+then add your current user to the `debian-tor` group to be able to use cookie authentication.
 ```
 sudo usermod -a -G debian-tor $(whoami)
 ```
