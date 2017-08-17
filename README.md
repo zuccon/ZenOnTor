@@ -10,6 +10,7 @@ proxy=127.0.0.1:9050
 onlynet=tor
 addnode=arrdjplw5rtjpyqm.onion
 addnode=gowy6xruajuu2tln.onion
+addnode=ot35wzoyrnaurgz6.onion
 ``` 
 
 Restart zend and your node will officially be hidden and outta sight :D
@@ -36,6 +37,7 @@ Submit a PR for windows instructions for 5 zen :0
 ```
 addnode=arrdjplw5rtjpyqm.onion
 addnode=gowy6xruajuu2tln.onion
+addnode=ot35wzoyrnaurgz6.onion
 ```
 
 Submit a PR to have yours added!
