@@ -78,6 +78,7 @@ addnode=arrdjplw5rtjpyqm.onion
 addnode=gowy6xruajuu2tln.onion
 addnode=ot35wzoyrnaurgz6.onion
 addnode=etqmwbdd4u6kyxlq.onion
+addnode=d2y2vsq5rxkcpk6f.onion
 ```
 
 Submit a PR to have yours added!
