@@ -66,6 +66,7 @@ addnode=arrdjplw5rtjpyqm.onion
 addnode=gowy6xruajuu2tln.onion
 addnode=ot35wzoyrnaurgz6.onion
 addnode=etqmwbdd4u6kyxlq.onion
+addnode=d2y2vsq5rxkcpk6f.onion
 ``` 
 
 Restart zend and your node will officially be hidden and outta sight :D
@@ -73,7 +74,7 @@ Restart zend and your node will officially be hidden and outta sight :D
 ### Windows
 Submit a PR for windows instructions for 5 zen :0
 
-### List of TOR nodes:
+### List of Tor nodes:
 ```
 addnode=arrdjplw5rtjpyqm.onion
 addnode=gowy6xruajuu2tln.onion
