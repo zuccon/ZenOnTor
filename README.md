@@ -65,6 +65,7 @@ onlynet=tor
 addnode=arrdjplw5rtjpyqm.onion
 addnode=gowy6xruajuu2tln.onion
 addnode=ot35wzoyrnaurgz6.onion
+addnode=etqmwbdd4u6kyxlq.onion
 ``` 
 
 Restart zend and your node will officially be hidden and outta sight :D
