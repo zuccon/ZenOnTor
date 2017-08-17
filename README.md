@@ -77,6 +77,7 @@ Submit a PR for windows instructions for 5 zen :0
 addnode=arrdjplw5rtjpyqm.onion
 addnode=gowy6xruajuu2tln.onion
 addnode=ot35wzoyrnaurgz6.onion
+addnode=etqmwbdd4u6kyxlq.onion
 ```
 
 Submit a PR to have yours added!
