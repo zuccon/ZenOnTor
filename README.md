@@ -66,14 +66,42 @@ addnode=arrdjplw5rtjpyqm.onion
 addnode=gowy6xruajuu2tln.onion
 addnode=ot35wzoyrnaurgz6.onion
 addnode=etqmwbdd4u6kyxlq.onion
+addnode=d2y2vsq5rxkcpk6f.onion
 ``` 
 
 Restart zend and your node will officially be hidden and outta sight :D
 
 ### Windows
-Submit a PR for windows instructions for 5 zen :0
 
-### List of TOR nodes:
+#### Install and configure Tor
+
+Download the Tor expert bundle for Windows from `https://www.torproject.org/download/download`and extract the zip file to a subfolder.
+
+Now create a new folder at `%APPDATA%\tor` and create a new text file `%APPDATA%\tor\torrc` and put this in it (note that the file needs to be saved without a `.txt` extension):
+```
+ControlPort 9051
+CookieAuthentication 1
+```
+
+Now open a command prompt and change to the directory you extracted Tor to e.g.
+```
+cd c:\Downloads\tor-win32-0.3.0.10
+```
+and start tor.exe with
+```
+Tor\tor.exe
+```
+you should see Tor's log output in the command prompt window.
+
+#### Setting up zend to be reachable by other Tor nodes
+
+Same as the Linux guide but use `.\zend.exe`, `.\zen-cli.exe getnetworkinfo` and `%APPDATA%\Zen\onion_private_key`.
+
+#### Connect to Tor nodes only:
+
+Same as the Linux guide but edit the config at `%APPDATA%\Zen\zen.conf`.
+
+### List of Tor nodes:
 ```
 addnode=arrdjplw5rtjpyqm.onion
 addnode=gowy6xruajuu2tln.onion
