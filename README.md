@@ -65,7 +65,7 @@ proxy=127.0.0.1:9050
 onlynet=tor
 addnode=arrdjplw5rtjpyqm.onion
 addnode=gowy6xruajuu2tln.onion
-addnode=ot35wzoyrnaurgz6.onion
+addnode=o5wxdwgg6g2fd2y5.onion
 addnode=etqmwbdd4u6kyxlq.onion
 addnode=d2y2vsq5rxkcpk6f.onion
 ``` 
@@ -107,7 +107,7 @@ Same as the Linux guide but edit the config at `%APPDATA%\Zen\zen.conf`.
 ```
 addnode=arrdjplw5rtjpyqm.onion
 addnode=gowy6xruajuu2tln.onion
-addnode=ot35wzoyrnaurgz6.onion
+addnode=o5wxdwgg6g2fd2y5.onion
 addnode=etqmwbdd4u6kyxlq.onion
 addnode=d2y2vsq5rxkcpk6f.onion
 ```
